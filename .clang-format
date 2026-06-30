@@ -1,0 +1,3 @@
+BasedOnStyle: GNU
+BreakBeforeBraces: Allman
+IndentWidth: 4
